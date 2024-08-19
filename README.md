@@ -43,7 +43,7 @@ You would need the following packages installed in your virtual environment befo
 
 ## Current Status
 
-The project has successfully achieved 100% accuracy in predicting the species of moths and butterflies using the EfficientNet pre-trained model. The next step is to develop a web application using Streamlit, allowing users to upload images and identify species directly through a user-friendly interface.
+The project has successfully achieved 100% accuracy in predicting the species of moths and butterflies using the EfficientNet pre-trained model. The next step is to develop a mobile app using Andropid Studio, allowing users to upload images and identify species directly through a user-friendly interface.
 
 ## Future Work
 This project is a stepping stone towards building a more comprehensive application that can identify various insect species, particularly those found in Uganda. The future scope of this project includes:
